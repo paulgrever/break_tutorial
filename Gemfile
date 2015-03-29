@@ -30,7 +30,7 @@ gem 'will_paginate',           '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 # Use Unicorn as the app server
 # gem 'unicorn'
-
+gem 'pg',             '0.17.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 group :production do
